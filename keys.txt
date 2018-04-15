@@ -1,0 +1,13 @@
+
+
+https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment
+https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/keyPhrases
+https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/languages
+
+
+new:
+https://westcentralus.api.cognitive.microsoft.com/text/analytics/v2.0
+
+Key 1: 9f09d10a8fde4fd0a3dda7ecdc5a625e
+
+Key 2: 2a4d48649a3046888db048d3e7aa1c36
